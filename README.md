@@ -47,7 +47,7 @@ TThis is a simple and interactive Tic Tac Toe web application developed using HT
 
 ## ▶️ How to Run the Project
 
-1. Download or clone the repository: git clone https://github.com/codedbydivya/tic-tac-toe.git
+1. Download or clone the repository: git clone https://github.com/codedbydivya/SCT_WD_3
 2. Open the `index.html` file in any modern web browser.
 3. Start playing the game.
 
