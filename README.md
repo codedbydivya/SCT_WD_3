@@ -1,13 +1,13 @@
 # 🎮 Tic Tac Toe Web Application
 
-This is a simple and interactive Tic Tac Toe web application developed using HTML, CSS, and JavaScript as part of an internship task. The project demonstrates basic frontend development concepts such as DOM manipulation, event handling, and game logic implementation.
+TThis is a simple and interactive Tic Tac Toe web application developed using HTML, CSS, and JavaScript as part of the **SkillCraft Technology Internship**. The project demonstrates fundamental frontend development skills including DOM manipulation, event handling, and game logic implementation.
 
 ---
 
 ## 🌐 Live Demo
 
 🔗 **Live Link:**  
-https://codedbydivya.github.io/tic-tac-toe/
+ https://codedbydivya.github.io/SCT_WD_3/
 
 ## 🚀 Features
 
